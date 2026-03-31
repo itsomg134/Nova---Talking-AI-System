@@ -30,11 +30,8 @@
 - Responsive design for all devices
 - Gradient accents and glow effects
 
-##  Demo
+<img width="1902" height="1277" alt="image" src="https://github.com/user-attachments/assets/9c828813-c220-4866-8490-57cd2ed246a7" />
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x450/0a0f1e/7aa2f7?text=Nova+AI+in+Action" alt="Nova Demo Screenshot" width="80%">
-</div>
 
 ### Voice Interaction Flow
 1.  Click the microphone button
